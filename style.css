@@ -1,0 +1,22 @@
+body{
+    background-image: url(istock-619268382.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+h1{
+    margin-top: 15%;
+    text-align: center;
+  font-size: 200px;
+    font-style: italic;
+    background-color:grey ;
+
+}
+nav{
+    height: 120px;
+    font-size: 30px;
+}

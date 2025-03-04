@@ -1,0 +1,40 @@
+body{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-image:url(premium_photo-1707931342773-6eb567d4fd21.jpg) ;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+  font-size: 80px;
+    font-style: italic;
+    text-decoration: underline;
+background-image: url(Lógó\ és\ név.png);
+}
+nav{
+    height: 120px;
+    font-size: 30px;
+}
+img{
+    float: right;
+    margin-top: 200px;
+    margin-right: 200px;
+}
+p{
+    font-size: 40px;
+}
+h2{
+    font-size: 60px;
+    text-decoration: underline;
+}
+#k{
+    color: brown;
+}
+ul{
+    font-size: 40px;
+}
+ol{
+    font-size: 40px; 
+}

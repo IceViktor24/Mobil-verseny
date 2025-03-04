@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(152, 152, 158);
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;}
+    
+
+h1{
+        text-align: center;
+      font-size: 80px;
+        font-style: italic;
+        text-decoration: underline;
+    
+    }
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1150px;
+}
+nav{
+    height: 120px;
+    font-size: 30px;
+}

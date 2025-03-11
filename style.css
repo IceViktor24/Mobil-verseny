@@ -20,3 +20,10 @@ nav{
     height: 120px;
     font-size: 30px;
 }
+#vidi{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  font-size: 22px;
+}

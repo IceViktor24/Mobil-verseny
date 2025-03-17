@@ -6,12 +6,10 @@ body{
     font-style: normal;}
     
 
-h1{
-        text-align: center;
-      font-size: 80px;
+h4{
+      font-size: 50px;
         font-style: italic;
         text-decoration: underline;
-    
     }
 img{
     display: block;
@@ -22,4 +20,24 @@ img{
 nav{
     height: 120px;
     font-size: 30px;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  
+  position: absolute;
+  bottom: 20px;
+  right: 260px;
+  background-image:url(Lógó\ és\ név.png);
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 25px;
+}
+li{
+  font-size: 40px;
 }

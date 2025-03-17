@@ -26,4 +26,14 @@ nav{
   margin-right: auto;
   width: 10%;
   font-size: 22px;
+    text-align: center;
+}
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+li{
+  font-size: 40px;
 }

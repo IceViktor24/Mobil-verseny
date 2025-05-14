@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(152, 152, 158);
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;}
+    
+
+h4{
+      font-size: 50px;
+        font-style: italic;
+        text-decoration: underline;
+    }
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1150px;
+}
+nav{
+    height: 120px;
+    font-size: 30px;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  
+  position: absolute;
+  bottom: 20px;
+  right: 260px;
+  background-image:url(Lógó\ és\ név.png);
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 25px;
+}
+li{
+  font-size: 40px;
+}
+button{
+  margin-left: 20px;
+}
+h2{
+    text-align:  center;
+    
+}
